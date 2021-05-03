@@ -3,7 +3,7 @@
 
 - 🌱 Me encuentro aprendiendo **CSS avanzado, Angular y API Rest**
 
-- 👨‍💻 Muchos de mis proyectos están disponibles en [https://github.com/claudiomgz](https://github.com/claudiomgz)
+- 👨‍💻 Muchos de mis proyectos están disponibles en mi [página personal](https://claudiomgz.netlify.app/)
 
 - 💬 Pregúntame sobre **HTML, CSS, SASS, JS, C++, PostgreSQL**
 
@@ -11,7 +11,7 @@
 
 - 📄 Conozca sobre mis experiencias en mi [resumen personal](https://drive.google.com/file/d/1tNO4BkmbJl_MJWGFV0qaXRHLphtnQHE-/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://codepen.io/claudiomonguzzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="claudiomonguzzi" height="30" width="40" /></a>
 <a href="https://twitter.com/claudiomonguzzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="claudiomonguzzi" height="30" width="40" /></a>
