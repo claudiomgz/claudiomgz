@@ -1,5 +1,5 @@
 <h1 align="center">Mi nombre es Claudio Monguzzi</h1>
-<h3 align="center">Soy un Desarrollador Frontend Trainee de Santa Fe, Argentina</h3>
+<h3 align="center">Soy un Desarrollador Fullstack Trainee de Santa Fe, Argentina</h3>
 
 - 🌱 Me encuentro aprendiendo **CSS avanzado, Angular y API Rest**
 
