@@ -9,7 +9,7 @@
 
 - 📫 Contáctame en **claudiomonguzzi80@gmail.com**
 
-- 📄 Conozca sobre mis experiencias en mi [resumen personal](https://drive.google.com/file/d/1tNO4BkmbJl_MJWGFV0qaXRHLphtnQHE-/view?usp=sharing)
+- 📄 Conozca sobre mis experiencias en mi [resumen personal](https://drive.google.com/file/d/1en7cTd31VWaf1hj61VXxJ5r3QIBVvegv/view?usp=sharing)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
