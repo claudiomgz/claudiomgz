@@ -1,11 +1,11 @@
 <h1 align="center">Mi nombre es Claudio Monguzzi</h1>
 <h3 align="center">Soy un Desarrollador Fullstack Trainee de Santa Fe, Argentina</h3>
 
-- 🌱 Me encuentro aprendiendo **CSS avanzado, Angular y API Rest**
+- 🌱 Me encuentro aprendiendo **Angular, C#, Java**
 
 - 👨‍💻 Muchos de mis proyectos están disponibles en mi [página personal](https://claudiomgz.netlify.app/)
 
-- 💬 Pregúntame sobre **HTML, CSS, SASS, JS, C++, PostgreSQL**
+- 💬 Conocimientos en **HTML, CSS, Bootstrap, JS, Node.js, C++, PostgreSQL**
 
 - 📫 Contáctame en **claudiomonguzzi80@gmail.com**
 
@@ -13,8 +13,6 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://codepen.io/claudiomonguzzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="claudiomonguzzi" height="30" width="40" /></a>
-<a href="https://twitter.com/claudiomonguzzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="claudiomonguzzi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/claudiomonguzzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="claudiomonguzzi" height="30" width="40" /></a>
 <a href="https://fb.com/claudiomonguzzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="claudiomonguzzi" height="30" width="40" /></a>
 <a href="https://instagram.com/claudiomgz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="claudiomgz" height="30" width="40" /></a>
