@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Claudio 😀</h1>
-<h3 align="center">Desarrollador Fullstack Juinior de Santa Fe, Argentina</h3>
+<h3 align="center">Desarrollador Fullstack Junior de Santa Fe, Argentina</h3>
 
 - 💬 Me espacializo en el area de backend en **C#, .NET, Node.js, C++**, en el frontend con **Bootstrap, SASS, JS vanilla y algo de Typescript**, y manejo cualquier motor de base de datos **SQL**. 
 
