@@ -7,7 +7,7 @@
 
 - 👨‍💻 Muchos de mis proyectos están disponibles en mi [página personal](https://claudiomgz.netlify.app/)
 
-- 📄 También puede conocer sobre mis experiencias en mi [resumen personal](https://drive.google.com/file/d/16lkpzbaRLB0r32gKGlfZWFMgo-XtwHEm/view?usp=sharing)
+- 📄 También puede conocer sobre mis experiencias en mi [resumen personal](https://drive.google.com/file/d/1RlUl5qhliKQgT3rdzDI2EMScLGsYnQbS/view?usp=share_link)
 
 - 📫 Cualquier consulta a **claudiomonguzzi80@gmail.com**
 
