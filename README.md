@@ -3,11 +3,11 @@
 
 - 💬 Me espacializo en el area de backend en **C#, .NET, Node.js, C++**, en el frontend con **Bootstrap, SASS, JS vanilla y algo de Typescript**, y manejo cualquier motor de base de datos **SQL**. 
 
-- 🌱 Me encuentro aprendiendo **React, React Native y Nhibernate**
+- 🌱 Me encuentro aprendiendo **React, React Native y Nhibernate**.
 
-- 👨‍💻 Muchos de mis proyectos están disponibles en mi [página personal](https://claudiomgz.netlify.app/)
+- 👨‍💻 Muchos de mis proyectos están disponibles en mi [página personal](https://claudiomgz.netlify.app/).
 
-- 📄 También puede conocer sobre mis experiencias en mi [resumen personal](https://drive.google.com/file/d/1RlUl5qhliKQgT3rdzDI2EMScLGsYnQbS/view?usp=share_link)
+- 📄 También puede conocer sobre mis experiencias en mi [resumen personal](https://drive.google.com/file/d/1RlUl5qhliKQgT3rdzDI2EMScLGsYnQbS/view?usp=share_link).
 
 - 📫 Cualquier consulta a **claudiomonguzzi80@gmail.com**
 
