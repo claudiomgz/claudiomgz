@@ -9,7 +9,7 @@
 
 - 📄 También puede conocer sobre mis experiencias en mi [resumen personal](https://drive.google.com/file/d/1RlUl5qhliKQgT3rdzDI2EMScLGsYnQbS/view?usp=share_link).
 
-- 📫 Cualquier consulta a **claudiomonguzzi80@gmail.com**
+- 📫 Cualquier consulta a **claudiomonguzzi80@gmail.com**.
 
 <h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
