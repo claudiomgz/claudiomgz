@@ -18,7 +18,7 @@
 <a href="https://instagram.com/claudiomgz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="claudiomgz" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages y herramientas que manejo comunmente:</h3>
+<h3 align="left">Languajes y herramientas que manejo comunmente:</h3>
 <p align="left"> 
   <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/640px-C_Sharp_wordmark.svg.png" alt="csharp" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
