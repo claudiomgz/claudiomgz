@@ -1,13 +1,13 @@
 <h1 align="center">Hola, soy Claudio 😀</h1>
 <h3 align="center">Desarrollador Fullstack Junior de Santa Fe, Argentina</h3>
 
-- 💬 Me espacializo en el area de backend en **C#, .NET, Node.js, C++**, en el frontend con **Bootstrap, SASS, JS vanilla y algo de Typescript**, y manejo cualquier motor de base de datos **SQL**. 
+- 💬 Me espacializo en el area de backend en **C#, .NET, Node.js**, en el frontend con **Bootstrap, SASS, JS vanilla y algo de Typescript**, y manejo cualquier motor de base de datos **SQL**. 
 
 - 🌱 Me encuentro aprendiendo **React, React Native y Nhibernate**.
 
 - 👨‍💻 Muchos de mis proyectos están disponibles en mi [página personal](https://claudiomgz.netlify.app/).
 
-- 📄 También puede conocer sobre mis experiencias en mi [resumen personal](https://drive.google.com/file/d/1RlUl5qhliKQgT3rdzDI2EMScLGsYnQbS/view?usp=share_link).
+- 📄 También puede conocer sobre mis experiencias en mi [resumen personal](https://www.canva.com/design/DAEOkKI4KpM/quAleSMkaYhvgwa2L7t_3Q/edit?utm_content=DAEOkKI4KpM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 - 📫 Cualquier consulta a **claudiomonguzzi80@gmail.com**.
 
@@ -33,4 +33,10 @@
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/es-es/sql-server/sql-server-downloads" target="_blank"> <img src="https://www.dataprix.com/files/uploads/103image/logo_sqlserver.png" alt="sqlserver" width="40" height="40"/> </a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiomgz&show_icons=true&locale=es&layout=compact" alt="claudiomgz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiomgz&show_icons=true&locale=es" alt="claudiomgz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=claudiomgz&locale=es" alt="claudiomgz" /></p>
 
