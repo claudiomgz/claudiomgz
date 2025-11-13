@@ -1,21 +1,12 @@
-<h1 align="center">Hola, soy Claudio 😀</h1>
-<h3 align="center">Desarrollador Fullstack Junior de Santa Fe, Argentina</h3>
+<h1 align="center">Desarrollador Fullstack</h1>
 
-- 💬 Me espacializo en el area de backend en **C#, .NET, Node.js**, en el frontend con **Bootstrap, SASS, JS vanilla y algo de Typescript**, y manejo cualquier motor de base de datos **SQL**. 
+- 💬 Me espacializo en el area de backend en **C# .NET, Node.js**, en frontend con **Angular 15 y Typescript**, y manejo cualquier motor de base de datos **SQL**. 
 
-- 🌱 Me encuentro aprendiendo **React, React Native y Nhibernate**.
-
-- 👨‍💻 Muchos de mis proyectos están disponibles en mi [página personal](https://claudiomgz.netlify.app/).
-
-- 📄 También puede conocer sobre mis experiencias en mi [resumen personal](https://www.canva.com/design/DAEOkKI4KpM/quAleSMkaYhvgwa2L7t_3Q/edit?utm_content=DAEOkKI4KpM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
-
-- 📫 Cualquier consulta a **claudiomonguzzi80@gmail.com**.
+- 👨‍💻 Mi [página personal](https://claudiomgz.com.ar/).
 
 <h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/claudiomonguzzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="claudiomonguzzi" height="30" width="40" /></a>
-<a href="https://fb.com/claudiomonguzzi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="claudiomonguzzi" height="30" width="40" /></a>
-<a href="https://instagram.com/claudiomgz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="claudiomgz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languajes y herramientas que manejo comunmente:</h3>
@@ -37,6 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=claudiomgz&show_icons=true&locale=es&layout=compact" alt="claudiomgz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiomgz&show_icons=true&locale=es" alt="claudiomgz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=claudiomgz&locale=es" alt="claudiomgz" /></p>
 
