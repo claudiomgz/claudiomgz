@@ -1,6 +1,6 @@
 <h1 align="center">Desarrollador Fullstack</h1>
 
-- 💬 Me espacializo en el area de backend en **C# .NET, Node.js**, en frontend con **Angular 15 y Typescript**, y manejo cualquier motor de base de datos **SQL**. 
+- 💬 Me espacializo en el area de backend en **C# .NET, Node.js**, en frontend con **Angular 15 y Typescript**, manejo cualquier motor de base de datos **SQL**. 
 
 - 👨‍💻 Mi [página personal](https://claudiomgz.com.ar/).
 
